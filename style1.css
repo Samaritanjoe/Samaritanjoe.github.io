@@ -1,0 +1,28 @@
+body{
+	background-color:#eeeee4;
+	background-size: 1400px 1200px;
+	background-repeat:no-repeat;
+}
+
+a:hover{color:green;
+ font-family: fantasy;
+}
+h1:hover{
+	color:green;
+}
+h2:hover{ color:green; 
+	text-align: center;
+	 border: 5px dashed #193643; 
+	 margin-left: auto;
+	  margin-right: auto;
+}
+.boxmodel{
+	border:5px solid #193643;
+	text-align: right;
+	display:inline-flex;
+	padding: 5px 20px 5px 20px;
+	margin: 20px}
+form:hover{color:green;
+	margin-left:all;
+
+}
